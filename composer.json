@@ -1,15 +1,15 @@
 {
-    "name": "thecodingmachine/security.entity.doctrine",
-    "description": "This package contains a basic DAO implementation for userservice",
-    "keywords": ["mouf", "userdao", "user management", "user", "user entity"],
-    "homepage": "https://github.com/Ngob/security.entity.doctrine",
-    "type": "mouf-library",
+    "name": "phps-cans/security.entity.doctrine",
+    "description": "This package contains a basic User implementation for userservice",
+    "keywords": ["userdao", "user management", "user", "user entity"],
+    "homepage": "https://github.com/thecodingmachine/security.entity.doctrine",
+    "type": "user",
     "license": "MIT",
     "authors": [
         {
             "name": "Benoit Ngo",
             "email": "b.ngo@thecodingmachine.com",
-            "homepage": "http://mouf-php.com"
+            "homepage": "http://github.com/Ngob"
         }
     ],
     "require": {
